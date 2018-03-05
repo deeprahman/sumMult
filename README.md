@@ -1,0 +1,2 @@
+# sumMult
+sum of multiples
